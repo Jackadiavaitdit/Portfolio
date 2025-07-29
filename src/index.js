@@ -5,6 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min';
+import 'bootstrap/ist/css/bootsrtap.bundle.min';
 
 // const modified to try to clear an error
 const root = ReactDOM.createRoot(document.getElementById('root'));
